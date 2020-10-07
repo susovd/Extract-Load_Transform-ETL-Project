@@ -11,12 +11,8 @@
 
 * [About the Project](#about-the-project)
   * [Built With](#built-with)
-* [Usage](#usage)
-* [Getting Started](#getting-started)
-  * [Heroku](#heroku)
-  * [Local](#local)
 * [Contributors](#contributors)
-* [Acknowledgements](#acknowledgements)
+
 
 
 <!-- ABOUT THE PROJECT -->
@@ -90,7 +86,11 @@ https://docs.google.com/document/d/1l2jfcqFcHQY6tJFci6olXn_G2GmE8IN77Cu7BaS0mSg/
 * [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS#:~:text=Cascading%20Style%20Sheets%20%28CSS%29%20is%20a%20stylesheet%20language,on%20paper%2C%20in%20speech%2C%20or%20on%20other%20media.)
 * [Javascript](https://developer.mozilla.org/en-US/docs/Web/javascript)
 
-
+### Contributors
+* Susov Dhakal
+* Tas Tudor
+* Jamie Tan
+* Yasmine Khalifa
 
 
 **Additional reference materials:**
